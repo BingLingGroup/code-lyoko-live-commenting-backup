@@ -19,6 +19,8 @@
 - [国语版 Code Lyoko 虚幻勇士 至NET奇兵 第一季 （1-26集）](https://www.bilibili.com/video/av1315351)
 - [国语版 Code Lyoko 虚幻勇士 至NET奇兵 第二季 （27-52集）](https://www.bilibili.com/video/av1317940)
 
-其中ass格式可以直接拖入支持ass格式字幕渲染的播放器进行播放，所有ass格式弹幕文件均由[JJDown电脑客户端](http://client.jijidown.com/)自行生成。如果对ass样式不满意的，可以自行上网搜索弹幕xml格式转ass工具，通过弹幕xml原文件进行转换得到样式较好的弹幕ass文件。
+其中ass格式可以直接拖入支持ass格式字幕渲染的播放器进行播放，所有ass格式弹幕文件均由[JJDown电脑客户端](http://client.jijidown.com/)自行生成，相关使用教程参考[B站下架番剧如何在本地播放器上加弹幕播放【附部分弹幕资源】 - 哔哩哔哩](https://www.bilibili.com/read/cv1168901/)。
+
+如果对ass样式不满意的，可以自行上网搜索弹幕xml格式转ass工具，通过弹幕xml原文件进行转换得到样式较好的弹幕ass文件。
 
 如果对文件名不同，不能自动加载ass格式弹幕文件进行播放感到困扰的，可以参考[bingling-batch](https://binglinggroup.github.io/archives/%E5%86%B0%E7%81%B5win%E6%89%B9%E5%A4%84%E7%90%86.html)提供的重命名批处理对ass文件的文件名进行批量重命名，使之与视频文件名相同能自动加载。
