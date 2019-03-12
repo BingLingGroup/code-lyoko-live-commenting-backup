@@ -1,0 +1,46 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:14.78,0:00:23.11,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}第一
+Dialogue: 3,0:00:41.60,0:00:52.10,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}十分hhhhh
+Dialogue: 3,0:02:11.03,0:02:20.69,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}还真去阿
+Dialogue: 3,0:02:35.81,0:02:46.31,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}邪教仪式？？？
+Dialogue: 3,0:02:40.60,0:02:52.10,AcplayDefault,,0000,0000,0000,,{\move(2208, 320, -288, 320)}你们在召集夏之那吧
+Dialogue: 3,0:02:47.98,0:02:56.98,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)} 招魂
+Dialogue: 3,0:02:51.49,0:03:01.99,AcplayDefault,,0000,0000,0000,,{\move(2144, 448, -224, 448)}2333333
+Dialogue: 3,0:02:55.74,0:03:05.24,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}中二不能忍
+Dialogue: 3,0:02:57.65,0:03:08.15,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}招魂23333
+Dialogue: 3,0:02:57.88,0:03:08.88,AcplayDefault,,0000,0000,0000,,{\move(2176, 640, -256, 640)}风水大师前来算卦
+Dialogue: 3,0:03:08.03,0:03:18.03,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}…无力吐槽…
+Dialogue: 3,0:03:14.84,0:03:26.84,AcplayDefault,,0000,0000,0000,,{\move(2240, 768, -320, 768)}凌晨三点看觉得好恐怖
+Dialogue: 3,0:03:15.71,0:03:24.71,AcplayDefault,,0000,0000,0000,,{\move(2016, 832, -96, 832)}BGM
+Dialogue: 3,0:03:20.25,0:03:32.25,AcplayDefault,,0000,0000,0000,,{\move(2240, 896, -320, 896)}夏之纳很给力的配合…
+Dialogue: 3,0:03:22.24,0:03:32.24,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}夏之纳好配合
+Dialogue: 3,0:03:26.38,0:03:37.88,AcplayDefault,,0000,0000,0000,,{\move(2208, 128, -288, 128)}233333333
+Dialogue: 3,0:05:29.90,0:05:42.90,AcplayDefault,,0000,0000,0000,,{\move(2336, 192, -416, 192)}不是啊，这是夏之纳的标志啊
+Dialogue: 3,0:07:34.65,0:07:46.65,AcplayDefault,,0000,0000,0000,,{\move(2240, 256, -320, 256)}董美娃和任杰果然是…
+Dialogue: 3,0:08:13.12,0:08:23.12,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}光脚真的好么
+Dialogue: 3,0:08:18.60,0:08:30.60,AcplayDefault,,0000,0000,0000,,{\move(2240, 384, -320, 384)}陈迪…裙子裙子！！！
+Dialogue: 3,0:08:23.10,0:08:32.77,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}裙底风光
+Dialogue: 3,0:08:42.16,0:08:51.16,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}睡衣党
+Dialogue: 3,0:09:38.74,0:09:48.74,AcplayDefault,,0000,0000,0000,,{\move(2112, 576, -192, 576)}4人3门。。
+Dialogue: 3,0:09:41.46,0:09:54.46,AcplayDefault,,0000,0000,0000,,{\move(2432, 640, -512, 640)}进去人也虚拟化，一个门能进一万人
+Dialogue: 3,0:13:26.77,0:13:30.77,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}他掉线了
+Dialogue: 3,0:17:47.84,0:17:57.34,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}尾巴233
+Dialogue: 3,0:20:20.93,0:20:29.93,AcplayDefault,,0000,0000,0000,,{\move(2016, 832, -96, 832)}蛛队友
+Dialogue: 3,0:20:21.98,0:20:32.98,AcplayDefault,,0000,0000,0000,,{\move(2176, 896, -256, 896)}怎么直接送门口了
+Dialogue: 3,0:20:22.25,0:20:31.92,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}这种队友
+Dialogue: 3,0:20:22.33,0:20:32.00,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}哈哈哈哈
+Dialogue: 3,0:20:25.94,0:20:38.94,AcplayDefault,,0000,0000,0000,,{\move(2304, 192, -384, 192)}珍爱生命，远离这种队友！
+Dialogue: 3,0:20:26.48,0:20:39.48,AcplayDefault,,0000,0000,0000,,{\move(2368, 256, -448, 256)}把自己队友干掉一只…狼蛛太…
+Dialogue: 3,0:21:31.73,0:21:44.73,AcplayDefault,,0000,0000,0000,,{\move(2432, 320, -512, 320)}任杰的衣服变了。。。。。？？？？
+Dialogue: 3,0:21:41.66,0:21:54.66,AcplayDefault,,0000,0000,0000,,{\move(2464, 384, -544, 384)}他妈不是睡衣吗？怎么变成休闲装了！

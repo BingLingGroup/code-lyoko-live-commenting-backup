@@ -1,0 +1,54 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:01:23.17,0:01:36.17,AcplayDefault,,0000,0000,0000,,{\move(2304, 64, -384, 64)}额头上的印子233333
+Dialogue: 3,0:02:18.85,0:02:31.85,AcplayDefault,,0000,0000,0000,,{\move(2560, 128, -640, 128)}哈哈Milly都被男生喜欢了233333
+Dialogue: 3,0:02:30.02,0:02:39.69,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}万恶之源
+Dialogue: 3,0:02:58.31,0:03:10.81,AcplayDefault,,0000,0000,0000,,{\move(2272, 256, -352, 256)}Odd你喝汤可以不漏吗
+Dialogue: 3,0:03:23.50,0:03:33.17,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}没逼格啦
+Dialogue: 3,0:04:03.78,0:04:16.78,AcplayDefault,,0000,0000,0000,,{\move(2624, 384, -704, 384)}把东西往衣服里藏这个动作好评23333333
+Dialogue: 3,0:04:31.30,0:04:40.80,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}整理发型中
+Dialogue: 3,0:04:35.36,0:04:48.36,AcplayDefault,,0000,0000,0000,,{\move(2496, 512, -576, 512)}紫色不是你的style?233333
+Dialogue: 3,0:05:01.74,0:05:13.74,AcplayDefault,,0000,0000,0000,,{\move(2240, 576, -320, 576)}喂！偷看别人日记啦！
+Dialogue: 3,0:05:07.37,0:05:20.37,AcplayDefault,,0000,0000,0000,,{\move(2304, 640, -384, 640)}然后就看到不得了的东西了
+Dialogue: 3,0:05:19.72,0:05:32.72,AcplayDefault,,0000,0000,0000,,{\move(2592, 704, -672, 704)}口嫌体正直，你刚才不是已经看了233333
+Dialogue: 3,0:05:29.03,0:05:41.03,AcplayDefault,,0000,0000,0000,,{\move(2240, 768, -320, 768)}这话咋说得这么心虚啊
+Dialogue: 3,0:06:04.39,0:06:17.39,AcplayDefault,,0000,0000,0000,,{\move(2336, 832, -416, 832)}U被打断两次了233333
+Dialogue: 3,0:06:25.68,0:06:35.68,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}姐弟关系断绝
+Dialogue: 3,0:06:50.80,0:07:00.47,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}flag
+Dialogue: 3,0:07:02.85,0:07:15.85,AcplayDefault,,0000,0000,0000,,{\move(2560, 128, -640, 128)}为什么O你也把日记放在衣服里233333
+Dialogue: 3,0:07:25.61,0:07:38.61,AcplayDefault,,0000,0000,0000,,{\move(2496, 192, -576, 192)}每次只要Kiwi一出现就可能要坏事儿
+Dialogue: 3,0:07:53.67,0:08:03.17,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}已经明示了
+Dialogue: 3,0:08:57.82,0:09:07.49,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}四脸懵逼
+Dialogue: 3,0:10:01.55,0:10:14.55,AcplayDefault,,0000,0000,0000,,{\move(2336, 384, -416, 384)}确实，这件事上U又滥好人了
+Dialogue: 3,0:11:25.62,0:11:35.62,AcplayDefault,,0000,0000,0000,,{\move(2112, 448, -192, 448)}这集过场好长
+Dialogue: 3,0:11:34.68,0:11:44.68,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}而且没BGM
+Dialogue: 3,0:13:05.78,0:13:16.28,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}J抓手细节好评
+Dialogue: 3,0:13:45.00,0:13:58.00,AcplayDefault,,0000,0000,0000,,{\move(2336, 640, -416, 640)}今天Odd难得没有说冷笑话
+Dialogue: 3,0:15:16.74,0:15:26.24,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}玉米不见了
+Dialogue: 3,0:16:50.89,0:17:02.89,AcplayDefault,,0000,0000,0000,,{\move(2240, 768, -320, 768)}玉米姐又被编剧盯上了
+Dialogue: 3,0:16:54.68,0:17:07.68,AcplayDefault,,0000,0000,0000,,{\move(2400, 832, -480, 832)}Odd安慰Ulrich这里好暖
+Dialogue: 3,0:17:02.91,0:17:13.41,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)}这集基调好压抑
+Dialogue: 3,0:17:56.22,0:18:05.72,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}玉米真的惨
+Dialogue: 3,0:18:27.71,0:18:40.71,AcplayDefault,,0000,0000,0000,,{\move(2368, 128, -448, 128)}哈哈哈，Odd突然变身大暖男
+Dialogue: 3,0:18:27.71,0:18:40.71,AcplayDefault,,0000,0000,0000,,{\move(2816, 192, -896, 192)}我感觉Odd刚才其实没有睡着，只是为了让Ulrich安心
+Dialogue: 3,0:18:48.16,0:19:01.16,AcplayDefault,,0000,0000,0000,,{\move(2464, 256, -544, 256)}这集基调看来是Hiroki和玉米了
+Dialogue: 3,0:19:15.27,0:19:24.94,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}姐弟亲情
+Dialogue: 3,0:20:40.62,0:20:50.12,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}玉米要完了
+Dialogue: 3,0:20:48.97,0:20:57.31,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}惊了
+Dialogue: 3,0:21:06.00,0:21:17.50,AcplayDefault,,0000,0000,0000,,{\move(2208, 512, -288, 512)}哇Skid挡枪感人
+Dialogue: 3,0:21:42.29,0:21:55.29,AcplayDefault,,0000,0000,0000,,{\move(2336, 576, -416, 576)}UO这句好暖啊233333
+Dialogue: 3,0:22:18.92,0:22:31.92,AcplayDefault,,0000,0000,0000,,{\move(2464, 640, -544, 640)}然后William小王子就被陪葬了
+Dialogue: 3,0:22:40.64,0:22:53.64,AcplayDefault,,0000,0000,0000,,{\move(2464, 704, -544, 704)}这集主线是YH亲情，副线是UO（雾
+Dialogue: 3,0:22:52.72,0:23:05.22,AcplayDefault,,0000,0000,0000,,{\move(2272, 768, -352, 768)}Ulrich：暗中观察
+Dialogue: 3,0:23:00.71,0:23:13.71,AcplayDefault,,0000,0000,0000,,{\move(2816, 832, -896, 832)}玉米：你根本不知道我今天经历了什么，日记都只能算小事儿了
+Dialogue: 3,0:23:08.47,0:23:21.47,AcplayDefault,,0000,0000,0000,,{\move(2368, 896, -448, 896)}Ulrich满脸都写着计划通

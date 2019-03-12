@@ -1,0 +1,14 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:11:21.47,0:11:31.14,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}好可爱啊
+Dialogue: 3,0:17:26.84,0:17:39.84,AcplayDefault,,0000,0000,0000,,{\move(2400, 128, -480, 128)\c&H722E00\3c&HFFFFFF}又成炮灰了，还以为这次单挑大战

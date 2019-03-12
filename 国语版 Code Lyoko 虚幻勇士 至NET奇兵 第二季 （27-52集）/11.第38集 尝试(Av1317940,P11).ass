@@ -1,0 +1,58 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:09.00,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)\c&H00FFCC}没弹幕
+Dialogue: 3,0:00:03.82,0:00:12.82,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}当然有
+Dialogue: 3,0:00:04.99,0:00:14.65,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}这里这里
+Dialogue: 3,0:00:07.32,0:00:20.32,AcplayDefault,,0000,0000,0000,,{\move(2368, 256, -448, 256)}我怎么记得以前片头的塔是蓝的
+Dialogue: 3,0:00:08.56,0:00:17.56,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}www
+Dialogue: 3,0:00:22.90,0:00:35.90,AcplayDefault,,0000,0000,0000,,{\move(2400, 384, -480, 384)}辗（che）转腾（zhen）挪
+Dialogue: 3,0:00:29.97,0:00:39.64,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}真的好看
+Dialogue: 3,0:00:31.02,0:00:44.02,AcplayDefault,,0000,0000,0000,,{\move(2304, 512, -384, 512)}odd的尾巴拼命蹭董美娃
+Dialogue: 3,0:01:15.02,0:01:24.68,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}帅的一比
+Dialogue: 3,0:01:20.22,0:01:30.72,AcplayDefault,,0000,0000,0000,,{\move(2144, 640, -224, 640)}刘继咯开挖苦累
+Dialogue: 3,0:01:20.62,0:01:30.62,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}李奇旋转双杀
+Dialogue: 3,0:01:26.63,0:01:39.13,AcplayDefault,,0000,0000,0000,,{\move(2272, 768, -352, 768)}double kill
+Dialogue: 3,0:02:09.86,0:02:19.53,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}钵水母纲
+Dialogue: 3,0:02:20.50,0:02:32.00,AcplayDefault,,0000,0000,0000,,{\move(2208, 896, -288, 896)}连续两集跑进塔。。
+Dialogue: 3,0:02:21.92,0:02:31.92,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}终于用跑的了
+Dialogue: 3,0:02:22.17,0:02:31.84,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}我擦好快
+Dialogue: 3,0:02:26.21,0:02:38.21,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}以前用走的事怕掉下去
+Dialogue: 3,0:05:12.07,0:05:21.74,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}万能借口
+Dialogue: 3,0:06:53.67,0:06:57.67,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}食堂大婶求发表获奖感言
+Dialogue: 3,0:07:05.83,0:07:17.83,AcplayDefault,,0000,0000,0000,,{\move(2240, 384, -320, 384)}完蛋了大妈得扣工资了
+Dialogue: 3,0:07:49.43,0:08:01.43,AcplayDefault,,0000,0000,0000,,{\move(2240, 448, -320, 448)}所以任杰到底干嘛了…
+Dialogue: 3,0:08:11.38,0:08:20.88,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}心情不好？
+Dialogue: 3,0:08:29.39,0:08:38.89,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}石头好位置
+Dialogue: 3,0:08:38.08,0:08:50.08,AcplayDefault,,0000,0000,0000,,{\move(2240, 640, -320, 640)}石头后面改地形打怪吖
+Dialogue: 3,0:09:28.00,0:09:32.00,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H7F02E2\3c&HFFFFFF}懂美娃说:我就静静地看着你装逼
+Dialogue: 3,0:09:30.72,0:09:40.72,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)}原来她个性阿
+Dialogue: 3,0:09:45.25,0:09:54.75,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}好萌233
+Dialogue: 3,0:09:47.27,0:09:51.27,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H722E00\3c&HFFFFFF}那个土薯好搞笑
+Dialogue: 3,0:10:26.40,0:10:36.90,AcplayDefault,,0000,0000,0000,,{\move(2144, 64, -224, 64)}一个世纪略快啊
+Dialogue: 3,0:11:15.49,0:11:24.99,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}说的没错x
+Dialogue: 3,0:12:22.30,0:12:33.80,AcplayDefault,,0000,0000,0000,,{\move(2208, 192, -288, 192)}这鼠标是瘟7系统？
+Dialogue: 3,0:13:14.77,0:13:24.77,AcplayDefault,,0000,0000,0000,,{\move(2112, 256, -192, 256)}三维空间卧槽
+Dialogue: 3,0:14:01.06,0:14:11.06,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}一点都不着急
+Dialogue: 3,0:15:19.02,0:15:29.52,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}姐姐你略逆天啊
+Dialogue: 3,0:15:26.91,0:15:37.41,AcplayDefault,,0000,0000,0000,,{\move(2144, 448, -224, 448)}这体力简直逆天
+Dialogue: 3,0:15:34.28,0:15:44.28,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}好像进水里了
+Dialogue: 3,0:16:14.39,0:16:25.39,AcplayDefault,,0000,0000,0000,,{\move(2176, 576, -256, 576)}动作堪比特技演员
+Dialogue: 3,0:17:32.60,0:17:40.27,AcplayDefault,,0000,0000,0000,,{\move(1952, 640, -32, 640)\c&H02F1FE\3c&HFFFFFF}帅
+Dialogue: 3,0:19:00.73,0:19:09.06,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}秒杀
+Dialogue: 3,0:20:35.99,0:20:47.49,AcplayDefault,,0000,0000,0000,,{\move(2208, 768, -288, 768)}冰雪游乐园hhhh
+Dialogue: 3,0:21:13.82,0:21:26.82,AcplayDefault,,0000,0000,0000,,{\move(2496, 832, -576, 832)}你确定你不会？ 35集你是怎么做到的
+Dialogue: 3,0:21:22.07,0:21:33.57,AcplayDefault,,0000,0000,0000,,{\move(2208, 896, -288, 896)}你不是干过一次么？
+Dialogue: 3,0:21:26.58,0:21:36.58,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}不是自动的嘛
+Dialogue: 3,0:21:36.61,0:21:46.11,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}不是自动的
+Dialogue: 3,0:21:41.69,0:21:51.35,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}语音控制
+Dialogue: 3,0:21:46.13,0:21:56.63,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}一天四次...

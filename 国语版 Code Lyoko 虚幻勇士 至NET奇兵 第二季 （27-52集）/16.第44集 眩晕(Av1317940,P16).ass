@@ -1,0 +1,42 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:05.52,0:00:13.19,AcplayDefault,,0000,0000,0000,,{\move(1952, 64, -32, 64)}3
+Dialogue: 3,0:00:13.16,0:00:22.66,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}消灭零弹幕
+Dialogue: 3,0:00:23.19,0:00:33.19,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}衣服上的基维
+Dialogue: 3,0:01:30.05,0:01:41.05,AcplayDefault,,0000,0000,0000,,{\move(2176, 256, -256, 256)}喜欢尤惠子跟陈迪
+Dialogue: 3,0:04:26.81,0:04:37.31,AcplayDefault,,0000,0000,0000,,{\move(2144, 320, -224, 320)}这个位置好尴尬
+Dialogue: 3,0:06:05.92,0:06:14.92,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}他恐高
+Dialogue: 3,0:06:20.51,0:06:33.51,AcplayDefault,,0000,0000,0000,,{\move(2304, 448, -384, 448)}李奇什么破个性 越来越烦
+Dialogue: 3,0:06:23.75,0:06:34.25,AcplayDefault,,0000,0000,0000,,{\move(2144, 512, -224, 512)}在前传里面说了
+Dialogue: 3,0:06:36.00,0:06:45.00,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}他恐高
+Dialogue: 3,0:09:04.96,0:09:14.96,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}徒手掰门。。
+Dialogue: 3,0:09:31.23,0:09:42.73,AcplayDefault,,0000,0000,0000,,{\move(2208, 704, -288, 704)}没事跑狼堡去= =
+Dialogue: 3,0:10:46.18,0:10:55.68,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}23333
+Dialogue: 3,0:11:06.00,0:11:15.66,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}迷之乱摸
+Dialogue: 3,0:11:06.22,0:11:19.22,AcplayDefault,,0000,0000,0000,,{\move(2560, 896, -640, 896)} 董美娃真单纯，要是我，我就去偷东西了。
+Dialogue: 3,0:11:15.04,0:11:24.71,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}趁机揩油
+Dialogue: 3,0:11:17.65,0:11:28.15,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}我喜欢刚才那段
+Dialogue: 3,0:11:28.42,0:11:37.92,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}噗哈哈。。
+Dialogue: 3,0:11:33.88,0:11:44.88,AcplayDefault,,0000,0000,0000,,{\move(2176, 256, -256, 256)}董美娃的梦？？！
+Dialogue: 3,0:12:41.84,0:12:53.34,AcplayDefault,,0000,0000,0000,,{\move(2208, 320, -288, 320)}另外2位小伙伴你壕
+Dialogue: 3,0:12:45.74,0:12:58.24,AcplayDefault,,0000,0000,0000,,{\move(2272, 384, -352, 384)}居然有另一位小伙伴！！
+Dialogue: 3,0:13:03.06,0:13:13.06,AcplayDefault,,0000,0000,0000,,{\move(2112, 448, -192, 448)}啊！小伙伴！
+Dialogue: 3,0:13:20.27,0:13:32.77,AcplayDefault,,0000,0000,0000,,{\move(2272, 512, -352, 512)}终于！！！！有小伙伴啦
+Dialogue: 3,0:14:33.69,0:14:44.69,AcplayDefault,,0000,0000,0000,,{\move(2176, 576, -256, 576)}为什么不隐身进去
+Dialogue: 3,0:15:42.90,0:15:51.90,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}铁头娃
+Dialogue: 3,0:15:50.01,0:15:59.01,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}哈哈哈
+Dialogue: 3,0:15:56.10,0:16:05.60,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}哈哈哈哈哈
+Dialogue: 3,0:16:31.96,0:16:44.96,AcplayDefault,,0000,0000,0000,,{\move(2304, 832, -384, 832)}董美娃需要帮助是好消息嘿
+Dialogue: 3,0:17:24.38,0:17:35.88,AcplayDefault,,0000,0000,0000,,{\move(2208, 896, -288, 896)}卧槽董美娃这么厉害
+Dialogue: 3,0:17:29.91,0:17:39.41,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}早该这样了
+Dialogue: 3,0:17:30.51,0:17:41.01,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}神速啊- - 
