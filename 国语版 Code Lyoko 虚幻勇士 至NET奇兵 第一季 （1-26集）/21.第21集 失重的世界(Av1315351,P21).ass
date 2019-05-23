@@ -12,8 +12,8 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 3,0:00:00.00,0:00:12.00,AcplayDefault,,0000,0000,0000,,{\move(2240, 64, -320, 64)\c&H7F02E2\3c&HFFFFFF}只有我一个人喜欢看吗
 Dialogue: 3,0:00:02.81,0:00:13.31,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}前面的 还有我
-Dialogue: 3,0:00:03.64,0:00:16.64,AcplayDefault,,0000,0000,0000,,{\move(2528, 192, -608, 192)}←你绝对不是一个人，我找这个片子可久了
-Dialogue: 3,0:00:03.64,0:00:15.65,AcplayDefault,,0000,0000,0000,,{\move(2240, 256, -320, 256)}前面的 憋瞎说知道不
+Dialogue: 3,0:00:03.64,0:00:15.65,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}前面的 憋瞎说知道不
+Dialogue: 3,0:00:03.64,0:00:16.64,AcplayDefault,,0000,0000,0000,,{\move(2528, 256, -608, 256)}←你绝对不是一个人，我找这个片子可久了
 Dialogue: 3,0:00:04.24,0:00:08.24,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H7F02E2\3c&HFFFFFF}还有我！
 Dialogue: 3,0:00:04.45,0:00:14.45,AcplayDefault,,0000,0000,0000,,{\move(2112, 384, -192, 384)}你不是一个人
 Dialogue: 3,0:00:04.79,0:00:15.78,AcplayDefault,,0000,0000,0000,,{\move(2176, 448, -256, 448)}前面你不是一个人
