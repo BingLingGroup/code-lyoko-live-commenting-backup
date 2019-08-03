@@ -10,3 +10,5 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:19:22.12,0:19:35.12,AcplayDefault,,0000,0000,0000,,{\move(2592, 64, -672, 64)}我去现在的鱼豆腐和土豆这么溜的吗还会跳。。
+Dialogue: 3,0:20:57.88,0:21:07.88,AcplayDefault,,0000,0000,0000,,{\move(2112, 128, -192, 128)}第几次救场了

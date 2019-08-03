@@ -10,3 +10,6 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:22:01.12,0:22:10.78,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}总裁坐姿
+Dialogue: 3,0:22:06.01,0:22:15.68,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}哈哈哈哈
+Dialogue: 3,0:23:22.31,0:23:32.81,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)}wow细思极恐

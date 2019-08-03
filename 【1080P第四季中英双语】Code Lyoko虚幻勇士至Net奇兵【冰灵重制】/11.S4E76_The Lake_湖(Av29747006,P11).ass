@@ -10,3 +10,15 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:39.61,0:00:47.95,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}精彩
+Dialogue: 3,0:01:58.99,0:02:07.99,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}化妆品
+Dialogue: 3,0:03:31.10,0:03:41.60,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)}jingcai
+Dialogue: 3,0:03:43.07,0:03:52.73,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}Xswl
+Dialogue: 3,0:05:54.35,0:06:03.35,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}吹牛、
+Dialogue: 3,0:07:51.48,0:08:01.48,AcplayDefault,,0000,0000,0000,,{\move(2112, 384, -192, 384)}夏之纳行动了
+Dialogue: 3,0:08:21.38,0:08:30.38,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}jim
+Dialogue: 3,0:12:21.61,0:12:34.61,AcplayDefault,,0000,0000,0000,,{\move(2304, 512, -384, 512)}save my kiwi
+Dialogue: 3,0:16:13.80,0:16:22.14,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}干他
+Dialogue: 3,0:18:19.05,0:18:29.05,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}董美娃董美娃
+Dialogue: 3,0:22:08.61,0:22:18.28,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}狗也在叫
+Dialogue: 3,0:22:50.28,0:23:01.28,AcplayDefault,,0000,0000,0000,,{\move(2176, 768, -256, 768)}intering

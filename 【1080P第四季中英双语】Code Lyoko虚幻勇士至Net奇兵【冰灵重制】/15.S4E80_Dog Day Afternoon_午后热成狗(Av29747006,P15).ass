@@ -10,5 +10,9 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 3,0:11:21.47,0:11:31.14,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}好可爱啊
-Dialogue: 3,0:17:26.84,0:17:39.84,AcplayDefault,,0000,0000,0000,,{\move(2400, 128, -480, 128)\c&H722E00\3c&HFFFFFF}又成炮灰了，还以为这次单挑大战
+Dialogue: 3,0:10:00.81,0:10:11.31,AcplayDefault,,0000,0000,0000,,{\move(2144, 64, -224, 64)}哈哈哈哈丧家犬
+Dialogue: 3,0:11:21.47,0:11:31.14,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}好可爱啊
+Dialogue: 3,0:12:12.14,0:12:21.64,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}威廉小王子
+Dialogue: 3,0:15:28.30,0:15:39.80,AcplayDefault,,0000,0000,0000,,{\move(2208, 256, -288, 256)}好中二的少年哈哈哈
+Dialogue: 3,0:15:34.13,0:15:45.13,AcplayDefault,,0000,0000,0000,,{\move(2176, 320, -256, 320)}都挺二的哈哈哈哈
+Dialogue: 3,0:17:26.84,0:17:39.84,AcplayDefault,,0000,0000,0000,,{\move(2400, 384, -480, 384)\c&H722E00\3c&HFFFFFF}又成炮灰了，还以为这次单挑大战

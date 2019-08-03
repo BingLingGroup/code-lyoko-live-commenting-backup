@@ -10,3 +10,4 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:10:42.84,0:10:52.84,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}老是睡着进来
