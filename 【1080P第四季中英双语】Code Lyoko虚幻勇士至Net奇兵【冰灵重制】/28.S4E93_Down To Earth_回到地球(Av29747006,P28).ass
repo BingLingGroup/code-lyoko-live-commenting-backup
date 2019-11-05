@@ -1,0 +1,15 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:09:40.29,0:09:53.29,AcplayDefault,,0000,0000,0000,,{\move(2368, 64, -448, 64)}兄弟，你这是凭实力单身的人！
+Dialogue: 3,0:13:54.89,0:14:06.89,AcplayDefault,,0000,0000,0000,,{\move(2240, 128, -320, 128)}水和岩浆接触居然没事
+Dialogue: 3,0:13:59.28,0:14:12.28,AcplayDefault,,0000,0000,0000,,{\move(2656, 192, -736, 192)}虚拟世界，什么事都可能发生了，你跟这个较真 ！

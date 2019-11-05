@@ -1,0 +1,64 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:04.01,0:00:17.01,AcplayDefault,,0000,0000,0000,,{\move(2368, 64, -448, 64)}76集相比重制前画质提升巨大
+Dialogue: 3,0:01:08.24,0:01:21.24,AcplayDefault,,0000,0000,0000,,{\move(2400, 128, -480, 128)}A妹又在撩汉了23333333
+Dialogue: 3,0:01:21.13,0:01:34.13,AcplayDefault,,0000,0000,0000,,{\move(2496, 192, -576, 192)}Odd日常撞Jim（类似的参见68集
+Dialogue: 3,0:01:26.92,0:01:39.92,AcplayDefault,,0000,0000,0000,,{\move(2432, 256, -512, 256)}Odd包裹肯定有鬼2333333
+Dialogue: 3,0:01:37.09,0:01:50.09,AcplayDefault,,0000,0000,0000,,{\move(2688, 320, -768, 320)}这里单车是个伏笔！S又暗中帮助了小队wwwwww
+Dialogue: 3,0:01:57.72,0:02:09.22,AcplayDefault,,0000,0000,0000,,{\move(2208, 384, -288, 384)}权限狗233333
+Dialogue: 3,0:02:12.22,0:02:21.22,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}233
+Dialogue: 3,0:02:17.86,0:02:27.86,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}UY日常互撩
+Dialogue: 3,0:02:37.67,0:02:47.17,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}有人请按1
+Dialogue: 3,0:02:42.74,0:02:55.74,AcplayDefault,,0000,0000,0000,,{\move(2304, 640, -384, 640)}照镜子顺带偷窥U的痴女S
+Dialogue: 3,0:02:47.95,0:02:56.28,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}11
+Dialogue: 3,0:03:10.54,0:03:23.54,AcplayDefault,,0000,0000,0000,,{\move(2336, 768, -416, 768)}其实Kiwi也是卖萌担当啊
+Dialogue: 3,0:03:24.70,0:03:33.03,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}担当
+Dialogue: 3,0:03:50.73,0:04:03.73,AcplayDefault,,0000,0000,0000,,{\move(2368, 896, -448, 896)}词库里面词太少了233333
+Dialogue: 3,0:04:06.43,0:04:16.43,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}太少了233
+Dialogue: 3,0:04:25.59,0:04:38.59,AcplayDefault,,0000,0000,0000,,{\move(2464, 128, -544, 128)}小清新氛围一句话就毁了233333
+Dialogue: 3,0:04:35.37,0:04:44.87,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}毁了233
+Dialogue: 3,0:05:01.19,0:05:14.19,AcplayDefault,,0000,0000,0000,,{\move(2336, 256, -416, 256)}说话说一半让玉米姐都着急啊
+Dialogue: 3,0:05:20.30,0:05:33.30,AcplayDefault,,0000,0000,0000,,{\move(2464, 320, -544, 320)}这里的新墨西哥州的字幕问题已经修正
+Dialogue: 3,0:05:25.32,0:05:35.82,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}Jim日常瞎撩
+Dialogue: 3,0:06:04.39,0:06:16.89,AcplayDefault,,0000,0000,0000,,{\move(2272, 448, -352, 448)}宅男Herb的蜜汁抖动
+Dialogue: 3,0:07:05.57,0:07:18.57,AcplayDefault,,0000,0000,0000,,{\move(2304, 512, -384, 512)}XANA也想和你一起度假
+Dialogue: 3,0:07:14.25,0:07:23.91,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}立旗秒收
+Dialogue: 3,0:07:41.39,0:07:52.89,AcplayDefault,,0000,0000,0000,,{\move(2208, 640, -288, 640)}路人妹子惊讶声好评
+Dialogue: 3,0:07:54.14,0:08:02.48,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}好评
+Dialogue: 3,0:08:02.74,0:08:15.74,AcplayDefault,,0000,0000,0000,,{\move(2368, 768, -448, 768)}水母终于回归了！等你等了好久
+Dialogue: 3,0:08:40.43,0:08:53.43,AcplayDefault,,0000,0000,0000,,{\move(2368, 832, -448, 832)}右下角官方随手就是一个US糖
+Dialogue: 3,0:08:40.60,0:08:53.60,AcplayDefault,,0000,0000,0000,,{\move(3008, 896, -1088, 896)}Jeremy果然是经历多了，耐打击能力果断提升一个数量级233333
+Dialogue: 3,0:09:01.28,0:09:10.78,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}emmmm
+Dialogue: 3,0:09:27.35,0:09:40.35,AcplayDefault,,0000,0000,0000,,{\move(2528, 128, -608, 128)}这集和74集很像啊，XANA玩三线作战
+Dialogue: 3,0:09:57.16,0:10:06.82,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}蜜汁脸红
+Dialogue: 3,0:10:23.56,0:10:34.56,AcplayDefault,,0000,0000,0000,,{\move(2176, 256, -256, 256)}官方吐槽最为致命
+Dialogue: 3,0:10:52.58,0:11:05.58,AcplayDefault,,0000,0000,0000,,{\move(2336, 320, -416, 320)}学生神助攻23333333
+Dialogue: 3,0:12:54.16,0:13:04.66,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}真·脚踏两只船
+Dialogue: 3,0:14:45.47,0:14:58.47,AcplayDefault,,0000,0000,0000,,{\move(2368, 448, -448, 448)}这里的自行车是Sissi带的
+Dialogue: 3,0:15:04.66,0:15:14.33,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}前方高能
+Dialogue: 3,0:15:28.73,0:15:41.73,AcplayDefault,,0000,0000,0000,,{\move(2336, 576, -416, 576)}这里字幕也有修正，不是登陆
+Dialogue: 3,0:16:20.19,0:16:32.19,AcplayDefault,,0000,0000,0000,,{\move(2240, 640, -320, 640)}踩胸镜头居然有特写！
+Dialogue: 3,0:16:45.21,0:16:58.21,AcplayDefault,,0000,0000,0000,,{\move(2304, 704, -384, 704)}Aelita动感单车时间
+Dialogue: 3,0:17:08.86,0:17:18.52,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}飙速宅女
+Dialogue: 3,0:17:10.02,0:17:23.02,AcplayDefault,,0000,0000,0000,,{\move(2528, 832, -608, 832)}不过也可以说是飙速机娘23333333
+Dialogue: 3,0:17:45.82,0:17:58.82,AcplayDefault,,0000,0000,0000,,{\move(2464, 896, -544, 896)}Jeremy也是身经百战，见得多了
+Dialogue: 3,0:18:26.55,0:18:38.55,AcplayDefault,,0000,0000,0000,,{\move(2240, 64, -320, 64)}本作时间最长的二人转
+Dialogue: 3,0:18:46.56,0:18:56.56,AcplayDefault,,0000,0000,0000,,{\move(2112, 128, -192, 128)}好糟糕的展开
+Dialogue: 3,0:19:00.21,0:19:13.21,AcplayDefault,,0000,0000,0000,,{\move(2528, 192, -608, 192)}X: 程序纠错完毕，没想到还能骗一波人
+Dialogue: 3,0:19:27.65,0:19:40.65,AcplayDefault,,0000,0000,0000,,{\move(2688, 256, -768, 256)}注意A姐启动的圆塔是深绿色的，和J的绿色略有不同
+Dialogue: 3,0:20:24.16,0:20:36.16,AcplayDefault,,0000,0000,0000,,{\move(2240, 320, -320, 320)}Herb姿势迷之喜感
+Dialogue: 3,0:20:38.26,0:20:51.26,AcplayDefault,,0000,0000,0000,,{\move(2528, 384, -608, 384)}其实不是一发搞定，而是一发把人推下去了
+Dialogue: 3,0:20:48.12,0:21:00.12,AcplayDefault,,0000,0000,0000,,{\move(2240, 448, -320, 448)}威廉真是hhhhhh
+Dialogue: 3,0:23:01.77,0:23:11.77,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}JA日常狗粮
+Dialogue: 3,0:23:14.94,0:23:27.94,AcplayDefault,,0000,0000,0000,,{\move(2368, 576, -448, 576)}Yumi保护协会表示严重抗议
+Dialogue: 3,0:23:23.72,0:23:36.22,AcplayDefault,,0000,0000,0000,,{\move(2272, 640, -352, 640)}爱谴责协会表示强烈玉米

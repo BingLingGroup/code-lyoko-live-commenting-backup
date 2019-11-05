@@ -1,0 +1,33 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:02:26.05,0:02:35.72,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}突然狗粮
+Dialogue: 3,0:02:35.40,0:02:44.40,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}哈哈哈
+Dialogue: 3,0:03:00.90,0:03:09.23,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}蛋疼
+Dialogue: 3,0:04:00.37,0:04:10.03,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}这个BB
+Dialogue: 3,0:04:01.12,0:04:11.12,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}啧啧啧脸红了
+Dialogue: 3,0:04:03.14,0:04:12.81,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}emmm
+Dialogue: 3,0:05:21.49,0:05:31.49,AcplayDefault,,0000,0000,0000,,{\move(2112, 448, -192, 448)}emmmm1
+Dialogue: 3,0:05:45.60,0:05:53.94,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}有趣
+Dialogue: 3,0:05:55.09,0:06:08.09,AcplayDefault,,0000,0000,0000,,{\move(3232, 576, -1312, 576)}do do so so la la so fa fa mi mi re re do
+Dialogue: 3,0:06:47.92,0:06:57.42,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}像极了我家
+Dialogue: 3,0:07:04.54,0:07:14.04,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}老爸的日常
+Dialogue: 3,0:09:31.61,0:09:41.11,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}hhhhh
+Dialogue: 3,0:09:36.97,0:09:46.47,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}老爸好棒啊
+Dialogue: 3,0:09:38.50,0:09:49.00,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)}爸爸好懂，，，
+Dialogue: 3,0:09:41.67,0:09:51.67,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}J的爸爸真好
+Dialogue: 3,0:10:04.38,0:10:13.88,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}emmmm
+Dialogue: 3,0:10:15.72,0:10:25.39,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}像极了我
+Dialogue: 3,0:14:17.38,0:14:28.38,AcplayDefault,,0000,0000,0000,,{\move(2176, 256, -256, 256)}你看他笑的多开心
+Dialogue: 3,0:22:20.65,0:22:31.15,AcplayDefault,,0000,0000,0000,,{\move(2144, 320, -224, 320)}哈哈哈哈好可爱
+Dialogue: 3,0:22:25.90,0:22:35.57,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}哈哈哈哈
+Dialogue: 3,0:22:35.99,0:22:45.99,AcplayDefault,,0000,0000,0000,,{\move(2112, 448, -192, 448)}这糟糕的台词

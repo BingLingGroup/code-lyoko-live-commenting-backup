@@ -1,0 +1,25 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:09:55.22,0:10:08.22,AcplayDefault,,0000,0000,0000,,{\move(2368, 64, -448, 64)}热血的童年，像极了当初的我们
+Dialogue: 3,0:09:58.79,0:10:08.46,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}我泪目了
+Dialogue: 3,0:20:29.82,0:20:40.32,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)}大写英文好评！
+Dialogue: 3,0:24:28.24,0:24:37.91,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}完结撒花
+Dialogue: 3,0:24:29.57,0:24:39.24,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}完结撒花
+Dialogue: 3,0:24:30.77,0:24:39.10,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}撒花
+Dialogue: 3,0:24:34.64,0:24:44.30,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}完结撒花
+Dialogue: 3,0:24:35.65,0:24:45.32,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}完结撒花
+Dialogue: 3,0:24:37.54,0:24:47.21,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}完结撒花
+Dialogue: 3,0:24:37.69,0:24:46.02,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}感谢
+Dialogue: 3,0:24:37.81,0:24:46.14,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}撒花
+Dialogue: 3,0:24:43.98,0:24:54.48,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}感谢！完结撒花
+Dialogue: 3,0:25:01.25,0:25:09.58,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}感谢

@@ -1,0 +1,28 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:46.31,0:00:54.64,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}兰科
+Dialogue: 3,0:08:59.46,0:09:08.96,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}emmmm
+Dialogue: 3,0:09:33.95,0:09:45.95,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}这两个女的真的很讨嫌
+Dialogue: 3,0:09:34.66,0:09:44.33,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}军事基地
+Dialogue: 3,0:11:12.28,0:11:21.28,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}好扇法
+Dialogue: 3,0:13:12.77,0:13:21.11,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}菜鸡
+Dialogue: 3,0:13:30.97,0:13:39.97,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}大计划
+Dialogue: 3,0:15:10.29,0:15:19.79,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}冒牌货不赖
+Dialogue: 3,0:16:46.68,0:16:58.18,AcplayDefault,,0000,0000,0000,,{\move(2208, 576, -288, 576)}我比较喜欢这个威廉
+Dialogue: 3,0:17:09.51,0:17:17.85,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}好人
+Dialogue: 3,0:18:03.37,0:18:12.37,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}菜鸡1
+Dialogue: 3,0:22:01.12,0:22:10.78,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}总裁坐姿
+Dialogue: 3,0:22:06.01,0:22:15.68,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}哈哈哈哈
+Dialogue: 3,0:22:15.30,0:22:24.30,AcplayDefault,,0000,0000,0000,,{\move(2016, 896, -96, 896)}两年前
+Dialogue: 3,0:22:46.18,0:22:57.18,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)}二话不说时间倒流
+Dialogue: 3,0:23:22.31,0:23:32.81,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}wow细思极恐

@@ -1,0 +1,15 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:04:09.99,0:04:21.99,AcplayDefault,,0000,0000,0000,,{\move(2240, 64, -320, 64)}l am toomy
+Dialogue: 3,0:04:25.82,0:04:36.82,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)}is tommy
+Dialogue: 3,0:23:26.93,0:23:36.93,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}人不如狗系列

@@ -1,0 +1,48 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:01:50.85,0:02:01.35,AcplayDefault,,0000,0000,0000,,{\move(2144, 64, -224, 64)}真霍兰要出来了
+Dialogue: 3,0:02:06.44,0:02:17.44,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)}23333333
+Dialogue: 3,0:02:15.02,0:02:28.02,AcplayDefault,,0000,0000,0000,,{\move(2464, 192, -544, 192)}看弹幕还以为是霍兰演的（手动再见）
+Dialogue: 3,0:02:26.95,0:02:36.62,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}文茜主演
+Dialogue: 3,0:02:38.94,0:02:50.44,AcplayDefault,,0000,0000,0000,,{\move(2208, 320, -288, 320)}陈迪导演，文茜主演
+Dialogue: 3,0:04:45.20,0:04:55.20,AcplayDefault,,0000,0000,0000,,{\move(2112, 384, -192, 384)}233333
+Dialogue: 3,0:04:55.96,0:05:05.63,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}哈哈哈哈
+Dialogue: 3,0:05:04.65,0:05:15.15,AcplayDefault,,0000,0000,0000,,{\move(2144, 512, -224, 512)}哈哈哈哈哈哈哈
+Dialogue: 3,0:05:09.98,0:05:19.65,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}哈哈哈隔
+Dialogue: 3,0:05:42.72,0:05:52.22,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}真霍兰上线
+Dialogue: 3,0:06:48.01,0:06:59.01,AcplayDefault,,0000,0000,0000,,{\move(2176, 704, -256, 704)}我可以帮你，女婿
+Dialogue: 3,0:06:48.15,0:06:57.65,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}握草吓死了
+Dialogue: 3,0:06:50.53,0:07:01.53,AcplayDefault,,0000,0000,0000,,{\move(2176, 832, -256, 832)}前面女婿的泥垢了
+Dialogue: 3,0:06:55.35,0:07:05.85,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)}爱因斯坦好恐怖
+Dialogue: 3,0:08:02.27,0:08:11.94,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}深入了解
+Dialogue: 3,0:09:45.95,0:09:55.62,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}井盖啊喂
+Dialogue: 3,0:09:49.66,0:10:00.16,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)}盖子没盖。。。
+Dialogue: 3,0:10:33.66,0:10:42.66,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}白色的
+Dialogue: 3,0:10:37.28,0:10:46.95,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}霍兰的塔
+Dialogue: 3,0:11:27.44,0:11:37.44,AcplayDefault,,0000,0000,0000,,{\move(2112, 384, -192, 384)}女儿要坑爹了
+Dialogue: 3,0:11:35.85,0:11:45.85,AcplayDefault,,0000,0000,0000,,{\move(2112, 448, -192, 448)}233333
+Dialogue: 3,0:12:03.81,0:12:16.81,AcplayDefault,,0000,0000,0000,,{\move(2624, 512, -704, 512)}原来圆格是用来退塔的呀！果然圆格伤害是最高的
+Dialogue: 3,0:12:31.73,0:12:42.73,AcplayDefault,,0000,0000,0000,,{\move(2176, 576, -256, 576)}这车不是能飞来着
+Dialogue: 3,0:12:51.43,0:13:01.93,AcplayDefault,,0000,0000,0000,,{\move(2144, 640, -224, 640)}塔可以被毁灭啊
+Dialogue: 3,0:12:58.02,0:13:11.02,AcplayDefault,,0000,0000,0000,,{\move(2368, 704, -448, 704)}这个医生一会要被夏之纳控制了
+Dialogue: 3,0:13:15.62,0:13:24.62,AcplayDefault,,0000,0000,0000,,{\move(2016, 768, -96, 768)}这画风
+Dialogue: 3,0:13:16.87,0:13:26.37,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}漂亮。。。
+Dialogue: 3,0:14:41.97,0:14:54.97,AcplayDefault,,0000,0000,0000,,{\move(2304, 896, -384, 896)}他打的不是眼，这也能秒杀
+Dialogue: 3,0:15:30.34,0:15:43.34,AcplayDefault,,0000,0000,0000,,{\move(2368, 64, -448, 64)}记忆中的李奇五杀圆格终于来了
+Dialogue: 3,0:15:41.82,0:15:52.82,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)}我猜他经验值贼高
+Dialogue: 3,0:15:46.67,0:15:58.17,AcplayDefault,,0000,0000,0000,,{\move(2208, 192, -288, 192)}我去，脆皮又单独走
+Dialogue: 3,0:16:41.72,0:16:51.38,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}6666
+Dialogue: 3,0:22:08.28,0:22:19.78,AcplayDefault,,0000,0000,0000,,{\move(2208, 320, -288, 320)}白塔是不是被推了？
+Dialogue: 3,0:23:27.93,0:23:39.93,AcplayDefault,,0000,0000,0000,,{\move(2240, 384, -320, 384)}说了这么多次我是霍兰
+Dialogue: 3,0:23:32.53,0:23:45.53,AcplayDefault,,0000,0000,0000,,{\move(2528, 448, -608, 448)}感情你们都是聋子，人家说了多少遍是霍兰
+Dialogue: 3,0:23:34.24,0:23:43.74,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}现在才知道

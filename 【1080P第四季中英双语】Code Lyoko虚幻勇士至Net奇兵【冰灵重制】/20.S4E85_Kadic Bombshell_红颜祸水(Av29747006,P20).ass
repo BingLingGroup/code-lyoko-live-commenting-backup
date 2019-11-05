@@ -1,0 +1,30 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:16.42,0:00:26.42,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}gogogo
+Dialogue: 3,0:00:37.63,0:00:50.63,AcplayDefault,,0000,0000,0000,,{\move(2400, 128, -480, 128)}make it through
+Dialogue: 3,0:01:16.35,0:01:27.35,AcplayDefault,,0000,0000,0000,,{\move(2176, 192, -256, 192)}死了yiyang
+Dialogue: 3,0:02:33.68,0:02:42.68,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}哈哈哈
+Dialogue: 3,0:02:49.72,0:02:58.72,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}啪啪啪
+Dialogue: 3,0:03:11.32,0:03:20.82,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}哇哇哇ww
+Dialogue: 3,0:03:22.21,0:03:31.71,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}emmmm
+Dialogue: 3,0:03:48.92,0:03:58.59,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}emmm
+Dialogue: 3,0:04:03.95,0:04:12.95,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}哦哦哦
+Dialogue: 3,0:04:45.03,0:04:54.70,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}无法形容
+Dialogue: 3,0:05:11.22,0:05:21.22,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}emmmm1
+Dialogue: 3,0:06:16.16,0:06:25.66,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}emmm1
+Dialogue: 3,0:19:22.12,0:19:35.12,AcplayDefault,,0000,0000,0000,,{\move(2592, 832, -672, 832)}我去现在的鱼豆腐和土豆这么溜的吗还会跳。。
+Dialogue: 3,0:20:07.40,0:20:17.06,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}情敌之争
+Dialogue: 3,0:20:57.88,0:21:07.88,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}第几次救场了
+Dialogue: 3,0:21:40.80,0:21:49.13,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}救场
+Dialogue: 3,0:22:18.10,0:22:26.43,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}PY
+Dialogue: 3,0:22:42.68,0:22:52.18,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}emmmm

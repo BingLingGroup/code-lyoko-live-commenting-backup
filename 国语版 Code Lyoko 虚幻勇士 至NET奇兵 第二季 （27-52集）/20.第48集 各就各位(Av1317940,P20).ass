@@ -1,0 +1,56 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:14.78,0:00:23.11,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}第一
+Dialogue: 3,0:00:41.60,0:00:52.10,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}十分hhhhh
+Dialogue: 3,0:02:04.48,0:02:14.98,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)}李奇你还真的去
+Dialogue: 3,0:02:11.03,0:02:20.69,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}还真去阿
+Dialogue: 3,0:02:35.81,0:02:46.31,AcplayDefault,,0000,0000,0000,,{\move(2144, 320, -224, 320)}邪教仪式？？？
+Dialogue: 3,0:02:40.60,0:02:52.10,AcplayDefault,,0000,0000,0000,,{\move(2208, 384, -288, 384)}你们在召集夏之那吧
+Dialogue: 3,0:02:47.98,0:02:56.98,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)} 招魂
+Dialogue: 3,0:02:51.49,0:03:01.99,AcplayDefault,,0000,0000,0000,,{\move(2144, 512, -224, 512)}2333333
+Dialogue: 3,0:02:55.74,0:03:05.24,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}中二不能忍
+Dialogue: 3,0:02:57.65,0:03:08.15,AcplayDefault,,0000,0000,0000,,{\move(2144, 640, -224, 640)}招魂23333
+Dialogue: 3,0:02:57.88,0:03:08.88,AcplayDefault,,0000,0000,0000,,{\move(2176, 704, -256, 704)}风水大师前来算卦
+Dialogue: 3,0:03:08.03,0:03:18.03,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)}…无力吐槽…
+Dialogue: 3,0:03:14.84,0:03:26.84,AcplayDefault,,0000,0000,0000,,{\move(2240, 832, -320, 832)}凌晨三点看觉得好恐怖
+Dialogue: 3,0:03:15.71,0:03:24.71,AcplayDefault,,0000,0000,0000,,{\move(2016, 896, -96, 896)}BGM
+Dialogue: 3,0:03:20.25,0:03:32.25,AcplayDefault,,0000,0000,0000,,{\move(2240, 64, -320, 64)}夏之纳很给力的配合…
+Dialogue: 3,0:03:22.24,0:03:32.24,AcplayDefault,,0000,0000,0000,,{\move(2112, 128, -192, 128)}夏之纳好配合
+Dialogue: 3,0:03:26.38,0:03:37.88,AcplayDefault,,0000,0000,0000,,{\move(2208, 192, -288, 192)}233333333
+Dialogue: 3,0:03:38.95,0:03:49.45,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}叶公好龙233
+Dialogue: 3,0:05:29.90,0:05:42.90,AcplayDefault,,0000,0000,0000,,{\move(2336, 320, -416, 320)}不是啊，这是夏之纳的标志啊
+Dialogue: 3,0:05:54.73,0:06:05.23,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}123，木头人
+Dialogue: 3,0:07:34.65,0:07:46.65,AcplayDefault,,0000,0000,0000,,{\move(2240, 448, -320, 448)}董美娃和任杰果然是…
+Dialogue: 3,0:08:13.12,0:08:23.12,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}光脚真的好么
+Dialogue: 3,0:08:18.60,0:08:30.60,AcplayDefault,,0000,0000,0000,,{\move(2240, 576, -320, 576)}陈迪…裙子裙子！！！
+Dialogue: 3,0:08:23.10,0:08:32.77,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}裙底风光
+Dialogue: 3,0:08:31.33,0:08:40.33,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}233
+Dialogue: 3,0:08:42.16,0:08:51.16,AcplayDefault,,0000,0000,0000,,{\move(2016, 768, -96, 768)}睡衣党
+Dialogue: 3,0:09:38.74,0:09:48.74,AcplayDefault,,0000,0000,0000,,{\move(2112, 832, -192, 832)}4人3门。。
+Dialogue: 3,0:09:41.46,0:09:54.46,AcplayDefault,,0000,0000,0000,,{\move(2432, 896, -512, 896)}进去人也虚拟化，一个门能进一万人
+Dialogue: 3,0:10:36.51,0:10:49.01,AcplayDefault,,0000,0000,0000,,{\move(2272, 64, -352, 64)}就不能设个快捷键啥的吗
+Dialogue: 3,0:10:51.58,0:11:04.58,AcplayDefault,,0000,0000,0000,,{\move(2368, 128, -448, 128)}做个bat，一键投射交通工具
+Dialogue: 3,0:11:21.32,0:11:31.82,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)}时间越来越长了
+Dialogue: 3,0:13:26.77,0:13:30.77,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}他掉线了
+Dialogue: 3,0:17:47.84,0:17:57.34,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)}尾巴233
+Dialogue: 3,0:20:20.93,0:20:29.93,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}蛛队友
+Dialogue: 3,0:20:21.98,0:20:32.98,AcplayDefault,,0000,0000,0000,,{\move(2176, 448, -256, 448)}怎么直接送门口了
+Dialogue: 3,0:20:22.25,0:20:31.92,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}这种队友
+Dialogue: 3,0:20:22.33,0:20:32.00,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}哈哈哈哈
+Dialogue: 3,0:20:22.41,0:20:31.91,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}这都不中？
+Dialogue: 3,0:20:25.94,0:20:38.94,AcplayDefault,,0000,0000,0000,,{\move(2304, 704, -384, 704)}珍爱生命，远离这种队友！
+Dialogue: 3,0:20:26.00,0:20:38.00,AcplayDefault,,0000,0000,0000,,{\move(2240, 768, -320, 768)}痛击我 i 的队友！
+Dialogue: 3,0:20:26.48,0:20:39.48,AcplayDefault,,0000,0000,0000,,{\move(2368, 832, -448, 832)}把自己队友干掉一只…狼蛛太…
+Dialogue: 3,0:20:33.32,0:20:43.32,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}可恶啊233
+Dialogue: 3,0:21:31.73,0:21:44.73,AcplayDefault,,0000,0000,0000,,{\move(2432, 64, -512, 64)}任杰的衣服变了。。。。。？？？？
+Dialogue: 3,0:21:41.66,0:21:54.66,AcplayDefault,,0000,0000,0000,,{\move(2464, 128, -544, 128)}他妈不是睡衣吗？怎么变成休闲装了！

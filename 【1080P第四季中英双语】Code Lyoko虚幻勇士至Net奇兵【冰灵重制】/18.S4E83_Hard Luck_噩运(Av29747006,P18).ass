@@ -1,0 +1,16 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:01:55.42,0:02:05.42,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}时间倒转预定
+Dialogue: 3,0:11:03.22,0:11:12.22,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}叫你浪
+Dialogue: 3,0:18:13.44,0:18:23.10,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}秀啊玉米
+Dialogue: 3,0:22:47.30,0:22:59.80,AcplayDefault,,0000,0000,0000,,{\move(2272, 256, -352, 256)}Jim的少女心hhhh
