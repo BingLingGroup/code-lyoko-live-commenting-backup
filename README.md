@@ -4,6 +4,10 @@
 
 本项目采用WTFPL进行许可，你可以使用本项目做任何事情。
 
+#### 上次更新日期
+
+[2019.12.01](https://github.com/BingLingGroup/code-lyoko-live-commenting-backup/commits/master)
+
 #### 来源与方法
 
 使用[JJDown电脑客户端](http://client.jijidown.com/)提取的以下在线视频的弹幕，更新日期参见[提交(commit)](https://github.com/BingLingGroup/code-lyoko-live-commenting-backup/commits/master)日期。
@@ -17,7 +21,13 @@
 - [【第四季】Code Lyoko 虚幻勇士 至NET奇兵 中英双语字幕 高清收藏版【冰灵】](https://www.bilibili.com/video/av2698898)
 - [Code Lyoko 虚幻勇士 至NET奇兵 第一、二季1-52 国语版480P](https://www.bilibili.com/video/av1338375)
 - [国语版 Code Lyoko 虚幻勇士 至NET奇兵 第一季 （1-26集）](https://www.bilibili.com/video/av1315351)
+  - 原视频已削除，仓库内的弹幕版本截止2019.11.05
 - [国语版 Code Lyoko 虚幻勇士 至NET奇兵 第二季 （27-52集）](https://www.bilibili.com/video/av1317940)
+  - 原视频已削除，仓库内的弹幕版本截止2019.11.05
+
+##### 文件下载
+
+文件夹下载或者单个文件下载可以使用[DownGit](https://minhaskamal.github.io/DownGit)，下载整个仓库可以使用仓库主页右侧的[Clone and Download](https://github.com/BingLingGroup/code-lyoko-live-commenting-backup/archive/master.zip)。
 
 ##### 弹弹play播放器加载xml格式弹幕播放
 
