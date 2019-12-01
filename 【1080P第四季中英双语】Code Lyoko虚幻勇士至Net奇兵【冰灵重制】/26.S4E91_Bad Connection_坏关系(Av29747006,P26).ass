@@ -10,3 +10,7 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:10:19.07,0:10:32.07,AcplayDefault,,0000,0000,0000,,{\move(2304, 64, -384, 64)}校长手上是什么奇怪的东西
+Dialogue: 3,0:14:45.36,0:14:56.36,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)}西女士珍素救星惹
+Dialogue: 3,0:16:56.56,0:17:07.56,AcplayDefault,,0000,0000,0000,,{\move(2176, 192, -256, 192)}校长的麦克风笑鼠
+Dialogue: 3,0:20:52.83,0:21:02.33,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}hello
