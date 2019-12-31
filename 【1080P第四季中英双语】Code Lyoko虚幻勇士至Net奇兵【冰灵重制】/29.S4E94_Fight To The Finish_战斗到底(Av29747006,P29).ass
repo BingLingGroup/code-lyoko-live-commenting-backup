@@ -13,4 +13,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 3,0:11:41.23,0:11:54.23,AcplayDefault,,0000,0000,0000,,{\move(2400, 64, -480, 64)}不是被扫描过的人免疫被控制吗？
 Dialogue: 3,0:18:03.25,0:18:12.92,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}u厉害了
 Dialogue: 3,0:18:13.89,0:18:22.22,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}单杀
-Dialogue: 3,0:22:27.16,0:22:37.66,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}夏女士终于死了
+Dialogue: 3,0:18:23.70,0:18:35.70,AcplayDefault,,0000,0000,0000,,{\move(2240, 256, -320, 256)}现在是说这个的时候吗
+Dialogue: 3,0:19:52.84,0:20:04.34,AcplayDefault,,0000,0000,0000,,{\move(2208, 320, -288, 320)}霍兰二度献祭嘛。。
+Dialogue: 3,0:22:27.16,0:22:37.66,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}夏女士终于死了
+Dialogue: 3,0:22:51.25,0:23:00.25,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}终于？
