@@ -10,9 +10,13 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 3,0:03:52.55,0:04:04.05,AcplayDefault,,0000,0000,0000,,{\move(2208, 64, -288, 64)}kiwi要凉啊。。
-Dialogue: 3,0:03:53.32,0:04:05.82,AcplayDefault,,0000,0000,0000,,{\move(2272, 128, -352, 128)}等下……你叫它李奇??
-Dialogue: 3,0:04:09.99,0:04:21.99,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}l am toomy
-Dialogue: 3,0:04:25.82,0:04:36.82,AcplayDefault,,0000,0000,0000,,{\move(2176, 256, -256, 256)}is tommy
-Dialogue: 3,0:23:22.54,0:23:35.04,AcplayDefault,,0000,0000,0000,,{\move(2272, 320, -352, 320)}不是不吃芥末嘛2333
-Dialogue: 3,0:23:26.93,0:23:36.93,AcplayDefault,,0000,0000,0000,,{\move(2112, 384, -192, 384)}人不如狗系列
+Dialogue: 3,0:03:38.70,0:03:42.70,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}哈哈哈哈哈要不是子供向crook就是cock了
+Dialogue: 3,0:03:52.55,0:04:04.05,AcplayDefault,,0000,0000,0000,,{\move(2208, 128, -288, 128)}kiwi要凉啊。。
+Dialogue: 3,0:03:53.32,0:04:05.82,AcplayDefault,,0000,0000,0000,,{\move(2272, 192, -352, 192)}等下……你叫它李奇??
+Dialogue: 3,0:04:09.99,0:04:21.99,AcplayDefault,,0000,0000,0000,,{\move(2240, 256, -320, 256)}l am toomy
+Dialogue: 3,0:04:25.82,0:04:36.82,AcplayDefault,,0000,0000,0000,,{\move(2176, 320, -256, 320)}is tommy
+Dialogue: 3,0:04:44.73,0:04:57.73,AcplayDefault,,0000,0000,0000,,{\move(2528, 384, -608, 384)}哈哈，过会kiwi的肠胃就会开始狂欢了
+Dialogue: 3,0:06:24.99,0:06:35.49,AcplayDefault,,0000,0000,0000,,{\move(2144, 448, -224, 448)}可怜的kiwi
+Dialogue: 3,0:21:44.35,0:21:57.35,AcplayDefault,,0000,0000,0000,,{\move(2304, 512, -384, 512)}到底他生命只有多少。。。
+Dialogue: 3,0:23:22.54,0:23:35.04,AcplayDefault,,0000,0000,0000,,{\move(2272, 576, -352, 576)}不是不吃芥末嘛2333
+Dialogue: 3,0:23:26.93,0:23:36.93,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}人不如狗系列

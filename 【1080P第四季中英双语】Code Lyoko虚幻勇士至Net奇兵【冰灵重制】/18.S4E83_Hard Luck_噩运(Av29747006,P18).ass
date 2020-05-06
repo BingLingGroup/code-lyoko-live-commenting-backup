@@ -11,6 +11,14 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 3,0:01:55.42,0:02:05.42,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}时间倒转预定
-Dialogue: 3,0:11:03.22,0:11:12.22,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}叫你浪
-Dialogue: 3,0:18:13.44,0:18:23.10,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}秀啊玉米
-Dialogue: 3,0:22:47.30,0:22:59.80,AcplayDefault,,0000,0000,0000,,{\move(2272, 256, -352, 256)}Jim的少女心hhhh
+Dialogue: 3,0:02:06.54,0:02:16.21,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}标题上线
+Dialogue: 3,0:02:48.25,0:03:01.25,AcplayDefault,,0000,0000,0000,,{\move(2528, 192, -608, 192)}注意现在odd盘里还和大家一样不是土司
+Dialogue: 3,0:04:11.33,0:04:20.83,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}满满的嘲讽
+Dialogue: 3,0:04:16.68,0:04:20.68,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}中国也是啦，至少广东人是
+Dialogue: 3,0:05:42.75,0:05:53.25,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}制造YU机会？
+Dialogue: 3,0:11:03.22,0:11:12.22,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}叫你浪
+Dialogue: 3,0:11:17.97,0:11:27.64,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}可可爱爱
+Dialogue: 3,0:11:21.62,0:11:31.28,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}没有脑袋
+Dialogue: 3,0:18:13.44,0:18:23.10,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}秀啊玉米
+Dialogue: 3,0:19:41.46,0:19:50.46,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}真男人
+Dialogue: 3,0:22:47.30,0:22:59.80,AcplayDefault,,0000,0000,0000,,{\move(2272, 768, -352, 768)}Jim的少女心hhhh
