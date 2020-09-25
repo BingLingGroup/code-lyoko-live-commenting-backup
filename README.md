@@ -6,7 +6,7 @@
 
 #### 上次更新日期
 
-[2020.07.10](https://github.com/BingLingGroup/code-lyoko-live-commenting-backup/commits/master)
+[2020.09.25](https://github.com/BingLingGroup/code-lyoko-live-commenting-backup/commits/master)
 
 #### 来源与方法
 
