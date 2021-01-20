@@ -10,16 +10,20 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 3,0:03:04.22,0:03:12.55,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}吹牛
-Dialogue: 3,0:05:12.97,0:05:23.97,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)}go go go
-Dialogue: 3,0:06:41.80,0:06:53.80,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}Odd太可爱了这动作
-Dialogue: 3,0:08:49.97,0:09:01.47,AcplayDefault,,0000,0000,0000,,{\move(2208, 256, -288, 256)}go go go的
-Dialogue: 3,0:09:49.63,0:10:02.63,AcplayDefault,,0000,0000,0000,,{\move(2336, 320, -416, 320)}a few minutes
-Dialogue: 3,0:12:44.04,0:12:56.54,AcplayDefault,,0000,0000,0000,,{\move(2272, 384, -352, 384)\c&H1200E7\3c&HFFFFFF}可以把他们的装备升级了
-Dialogue: 3,0:13:22.16,0:13:31.83,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}有点搞笑
-Dialogue: 3,0:15:30.35,0:15:42.35,AcplayDefault,,0000,0000,0000,,{\move(2240, 512, -320, 512)}哈?他说啥hhhhh
-Dialogue: 3,0:15:56.37,0:16:08.87,AcplayDefault,,0000,0000,0000,,{\move(2272, 576, -352, 576)}odd真的是战力最强的
-Dialogue: 3,0:16:59.69,0:17:10.19,AcplayDefault,,0000,0000,0000,,{\move(2144, 640, -224, 640)}救场小王子登场
-Dialogue: 3,0:18:51.83,0:19:01.83,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}odd小天使
-Dialogue: 3,0:21:34.53,0:21:45.03,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}odd mvp
-Dialogue: 3,0:22:52.25,0:23:04.75,AcplayDefault,,0000,0000,0000,,{\move(2272, 832, -352, 832)}odd性格很可爱哈哈哈
+Dialogue: 3,0:00:01.11,0:00:12.11,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)}MVP  ODD
+Dialogue: 3,0:03:04.22,0:03:12.55,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}吹牛
+Dialogue: 3,0:05:12.97,0:05:23.97,AcplayDefault,,0000,0000,0000,,{\move(2176, 192, -256, 192)}go go go
+Dialogue: 3,0:06:41.80,0:06:53.80,AcplayDefault,,0000,0000,0000,,{\move(2240, 256, -320, 256)}Odd太可爱了这动作
+Dialogue: 3,0:08:49.97,0:09:01.47,AcplayDefault,,0000,0000,0000,,{\move(2208, 320, -288, 320)}go go go的
+Dialogue: 3,0:09:49.63,0:10:02.63,AcplayDefault,,0000,0000,0000,,{\move(2336, 384, -416, 384)}a few minutes
+Dialogue: 3,0:12:44.04,0:12:56.54,AcplayDefault,,0000,0000,0000,,{\move(2272, 448, -352, 448)\c&H1200E7\3c&HFFFFFF}可以把他们的装备升级了
+Dialogue: 3,0:13:15.38,0:13:24.38,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}好憨啊
+Dialogue: 3,0:13:22.16,0:13:31.83,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}有点搞笑
+Dialogue: 3,0:15:00.39,0:15:09.89,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}A获得滑板
+Dialogue: 3,0:15:30.35,0:15:42.35,AcplayDefault,,0000,0000,0000,,{\move(2240, 704, -320, 704)}哈?他说啥hhhhh
+Dialogue: 3,0:15:56.37,0:16:08.87,AcplayDefault,,0000,0000,0000,,{\move(2272, 768, -352, 768)}odd真的是战力最强的
+Dialogue: 3,0:16:59.69,0:17:10.19,AcplayDefault,,0000,0000,0000,,{\move(2144, 832, -224, 832)}救场小王子登场
+Dialogue: 3,0:18:51.83,0:19:01.83,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}odd小天使
+Dialogue: 3,0:19:38.42,0:19:49.92,AcplayDefault,,0000,0000,0000,,{\move(2208, 64, -288, 64)}这个爪爪也太可爱了
+Dialogue: 3,0:21:34.53,0:21:45.03,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}odd mvp
+Dialogue: 3,0:22:52.25,0:23:04.75,AcplayDefault,,0000,0000,0000,,{\move(2272, 192, -352, 192)}odd性格很可爱哈哈哈

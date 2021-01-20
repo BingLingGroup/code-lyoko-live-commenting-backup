@@ -232,9 +232,9 @@ Dialogue: 3,0:07:21.89,0:07:34.39,AcplayDefault,,0000,0000,0000,,{\move(2272, 57
 Dialogue: 3,0:07:22.53,0:07:31.53,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}就俩人
 Dialogue: 3,0:07:26.13,0:07:30.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&HFF6A00\3c&HFFFFFF}一说荒木曾向柳生十兵卫处学习剑技。小具足应该是一种脚法
 Dialogue: 3,0:07:26.13,0:07:30.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&HFF6A00\3c&HFFFFFF}复仇的剑术·荒木流，日本三大复仇者之一荒木又右卫门的独创流派，
-Dialogue: 3,0:07:26.13,0:07:30.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&HFF6A00\3c&HFFFFFF}Kenshin-ryū：柳生心眼流
-Dialogue: 3,0:07:26.13,0:07:30.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&HFF6A00\3c&HFFFFFF}冲绳Kobudo的风格，侧重使用本博的职员作为互补风格系的空手道的教练。
-Dialogue: 3,0:07:26.13,0:07:30.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&HFF6A00\3c&HFFFFFF}Kogusoku-jutsn：小具足柔术
+Dialogue: 3,0:07:26.13,0:07:30.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&HFF6A00\3c&HFFFFFF}Kogusoku-jutsn：小具足柔术
+Dialogue: 3,0:07:26.13,0:07:30.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&HFF6A00\3c&HFFFFFF}Kenshin-ryū：柳生心眼流
+Dialogue: 3,0:07:26.13,0:07:30.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&HFF6A00\3c&HFFFFFF}冲绳Kobudo的风格，侧重使用本博的职员作为互补风格系的空手道的教练。
 Dialogue: 3,0:07:26.13,0:07:30.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 321)\c&HFF6A00\3c&HFFFFFF}Kalaripayat：卡拉里帕亚特
 Dialogue: 3,0:07:26.57,0:07:39.07,AcplayDefault,,0000,0000,0000,,{\move(2272, 192, -352, 192)}就教练23333333
 Dialogue: 3,0:07:28.50,0:07:39.50,AcplayDefault,,0000,0000,0000,,{\move(2176, 256, -256, 256)}抱歉 字幕组跪了
