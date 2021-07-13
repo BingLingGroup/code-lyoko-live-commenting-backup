@@ -11,13 +11,16 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 3,0:03:38.70,0:03:42.70,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}哈哈哈哈哈要不是子供向crook就是cock了
-Dialogue: 3,0:03:52.55,0:04:04.05,AcplayDefault,,0000,0000,0000,,{\move(2208, 128, -288, 128)}kiwi要凉啊。。
-Dialogue: 3,0:03:53.32,0:04:05.82,AcplayDefault,,0000,0000,0000,,{\move(2272, 192, -352, 192)}等下……你叫它李奇??
-Dialogue: 3,0:04:09.99,0:04:21.99,AcplayDefault,,0000,0000,0000,,{\move(2240, 256, -320, 256)}l am toomy
-Dialogue: 3,0:04:25.82,0:04:36.82,AcplayDefault,,0000,0000,0000,,{\move(2176, 320, -256, 320)}is tommy
-Dialogue: 3,0:04:44.73,0:04:57.73,AcplayDefault,,0000,0000,0000,,{\move(2528, 384, -608, 384)}哈哈，过会kiwi的肠胃就会开始狂欢了
-Dialogue: 3,0:06:24.99,0:06:35.49,AcplayDefault,,0000,0000,0000,,{\move(2144, 448, -224, 448)}可怜的kiwi
-Dialogue: 3,0:17:49.04,0:17:58.71,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}。。。。
-Dialogue: 3,0:21:44.35,0:21:57.35,AcplayDefault,,0000,0000,0000,,{\move(2304, 576, -384, 576)}到底他生命只有多少。。。
-Dialogue: 3,0:23:22.54,0:23:35.04,AcplayDefault,,0000,0000,0000,,{\move(2272, 640, -352, 640)}不是不吃芥末嘛2333
-Dialogue: 3,0:23:26.93,0:23:36.93,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}人不如狗系列
+Dialogue: 3,0:03:52.11,0:04:04.11,AcplayDefault,,0000,0000,0000,,{\move(2240, 128, -320, 128)}y姐也迷糊了，hhh
+Dialogue: 3,0:03:52.55,0:04:04.05,AcplayDefault,,0000,0000,0000,,{\move(2208, 192, -288, 192)}kiwi要凉啊。。
+Dialogue: 3,0:03:53.32,0:04:05.82,AcplayDefault,,0000,0000,0000,,{\move(2272, 256, -352, 256)}等下……你叫它李奇??
+Dialogue: 3,0:04:09.99,0:04:21.99,AcplayDefault,,0000,0000,0000,,{\move(2240, 320, -320, 320)}l am toomy
+Dialogue: 3,0:04:25.82,0:04:36.82,AcplayDefault,,0000,0000,0000,,{\move(2176, 384, -256, 384)}is tommy
+Dialogue: 3,0:04:44.73,0:04:57.73,AcplayDefault,,0000,0000,0000,,{\move(2528, 448, -608, 448)}哈哈，过会kiwi的肠胃就会开始狂欢了
+Dialogue: 3,0:04:46.09,0:04:59.09,AcplayDefault,,0000,0000,0000,,{\move(2336, 512, -416, 512)}我虽然不是人，但你是真的狗
+Dialogue: 3,0:06:04.42,0:06:14.92,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}2333333
+Dialogue: 3,0:06:24.99,0:06:35.49,AcplayDefault,,0000,0000,0000,,{\move(2144, 640, -224, 640)}可怜的kiwi
+Dialogue: 3,0:17:49.04,0:17:58.71,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}。。。。
+Dialogue: 3,0:21:44.35,0:21:57.35,AcplayDefault,,0000,0000,0000,,{\move(2304, 768, -384, 768)}到底他生命只有多少。。。
+Dialogue: 3,0:23:22.54,0:23:35.04,AcplayDefault,,0000,0000,0000,,{\move(2272, 832, -352, 832)}不是不吃芥末嘛2333
+Dialogue: 3,0:23:26.93,0:23:36.93,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}人不如狗系列

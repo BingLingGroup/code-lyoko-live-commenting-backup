@@ -330,8 +330,8 @@ Dialogue: 3,0:12:12.13,0:12:16.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1
 Dialogue: 3,0:12:12.20,0:12:22.70,AcplayDefault,,0000,0000,0000,,{\move(2144, 640, -224, 640)}哈哈哈 好弟弟
 Dialogue: 3,0:12:12.39,0:12:23.39,AcplayDefault,,0000,0000,0000,,{\move(2176, 704, -256, 704)\c&H7F02E2\3c&HFFFFFF}U臉紅好萌！！！
 Dialogue: 3,0:12:12.48,0:12:25.48,AcplayDefault,,0000,0000,0000,,{\move(2336, 768, -416, 768)}2333333333333
-Dialogue: 3,0:12:12.64,0:12:16.64,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&HFF9966\3c&HFFFFFF}2333333333333333333333
-Dialogue: 3,0:12:12.64,0:12:16.64,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&HFF9966\3c&HFFFFFF}233333333333333333
+Dialogue: 3,0:12:12.64,0:12:16.64,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&HFF9966\3c&HFFFFFF}233333333333333333
+Dialogue: 3,0:12:12.64,0:12:16.64,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&HFF9966\3c&HFFFFFF}2333333333333333333333
 Dialogue: 3,0:12:12.74,0:12:23.24,AcplayDefault,,0000,0000,0000,,{\move(2144, 64, -224, 64)}出现了厨头发言
 Dialogue: 3,0:12:12.84,0:12:16.84,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 321)\c&H02F1FE\3c&HFFFFFF}I tell her and tell her and tell her....233333333333333
 Dialogue: 3,0:12:12.86,0:12:24.86,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}2333333333
@@ -359,8 +359,8 @@ Dialogue: 3,0:12:19.99,0:12:29.99,AcplayDefault,,0000,0000,0000,,{\move(2112, 64
 Dialogue: 3,0:12:20.98,0:12:31.98,AcplayDefault,,0000,0000,0000,,{\move(2176, 704, -256, 704)}hahhahah
 Dialogue: 3,0:12:21.00,0:12:30.50,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}23333
 Dialogue: 3,0:12:25.94,0:12:35.61,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)\c&H2AABF0\3c&HFFFFFF}响指好评
-Dialogue: 3,0:12:25.97,0:12:29.97,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&HFF9966\3c&HFFFFFF}被响指帅到！
-Dialogue: 3,0:12:25.97,0:12:29.97,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&HFF9966\3c&HFFFFFF}弟弟是UY俱乐部部长啊
+Dialogue: 3,0:12:25.97,0:12:29.97,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&HFF9966\3c&HFFFFFF}弟弟是UY俱乐部部长啊
+Dialogue: 3,0:12:25.97,0:12:29.97,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&HFF9966\3c&HFFFFFF}被响指帅到！
 Dialogue: 3,0:12:29.35,0:12:39.35,AcplayDefault,,0000,0000,0000,,{\move(2112, 128, -192, 128)}响指好苏ww
 Dialogue: 3,0:12:33.60,0:12:46.60,AcplayDefault,,0000,0000,0000,,{\move(2848, 192, -928, 192)\c&H2AABF0\3c&HFFFFFF}because your style is too big
 Dialogue: 3,0:12:36.18,0:12:40.18,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}神
