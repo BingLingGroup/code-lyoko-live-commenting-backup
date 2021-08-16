@@ -10,8 +10,8 @@ Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 3,0:00:00.00,0:00:11.00,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)\c&H7B3A68\3c&HFFFFFF}我家AA回来了！
-Dialogue: 3,0:00:00.00,0:00:11.00,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)}和那个转校生真像
+Dialogue: 3,0:00:00.00,0:00:11.00,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)}和那个转校生真像
+Dialogue: 3,0:00:00.00,0:00:11.00,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)\c&H7B3A68\3c&HFFFFFF}我家AA回来了！
 Dialogue: 3,0:00:00.00,0:00:12.00,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}bangbangda
 Dialogue: 3,0:00:01.87,0:00:13.37,AcplayDefault,,0000,0000,0000,,{\move(2208, 256, -288, 256)\c&H7B3A68\3c&HFFFFFF}我家A终于出来了！
 Dialogue: 3,0:00:02.43,0:00:12.43,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)\c&HEAA000\3c&HFFFFFF}蓝藻陪你op
@@ -36,8 +36,8 @@ Dialogue: 3,0:00:13.33,0:00:22.83,AcplayDefault,,0000,0000,0000,,{\move(2080, 57
 Dialogue: 3,0:00:13.87,0:00:26.87,AcplayDefault,,0000,0000,0000,,{\move(2592, 640, -672, 640)}啊，爱死这部剧了，我对虚拟世界向往的起源～
 Dialogue: 3,0:00:14.18,0:00:25.68,AcplayDefault,,0000,0000,0000,,{\move(2208, 704, -288, 704)}第一季的倒数第二集
 Dialogue: 3,0:00:14.25,0:00:23.75,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)\c&HEAA000\3c&HFFFFFF}绝不跳OP
-Dialogue: 3,0:00:14.95,0:00:24.45,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}感谢字幕组
-Dialogue: 3,0:00:14.95,0:00:24.45,AcplayDefault,,0000,0000,0000,,{\move(2080, 896, -160, 896)\c&H1200E7\3c&HFFFFFF}感谢字幕组
+Dialogue: 3,0:00:14.95,0:00:24.45,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)\c&H1200E7\3c&HFFFFFF}感谢字幕组
+Dialogue: 3,0:00:14.95,0:00:24.45,AcplayDefault,,0000,0000,0000,,{\move(2080, 896, -160, 896)}感谢字幕组
 Dialogue: 3,0:00:15.98,0:00:25.64,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}感谢+1
 Dialogue: 3,0:00:17.30,0:00:26.80,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)\c&H1200E7\3c&HFFFFFF}感谢字幕组
 Dialogue: 3,0:00:17.87,0:00:27.37,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}感謝字幕組
@@ -73,9 +73,9 @@ Dialogue: 3,0:00:56.98,0:01:06.48,AcplayDefault,,0000,0000,0000,,{\move(2080, 25
 Dialogue: 3,0:00:57.13,0:01:09.13,AcplayDefault,,0000,0000,0000,,{\move(2240, 320, -320, 320)}能不能穿好裤子再电话
 Dialogue: 3,0:01:00.56,0:01:11.56,AcplayDefault,,0000,0000,0000,,{\move(2176, 384, -256, 384)\c&H722E00\3c&HFFFFFF}你上次也是这么说
 Dialogue: 3,0:01:00.85,0:01:04.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}小时候特别希望的就是机娘能实体化
-Dialogue: 3,0:01:00.85,0:01:04.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}也没看完
-Dialogue: 3,0:01:00.85,0:01:04.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H00FFFF}所以拨了一阵很快下架了
-Dialogue: 3,0:01:00.85,0:01:04.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H00FFFF}小时候在电视看的时候因为没有版权
+Dialogue: 3,0:01:00.85,0:01:04.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}所以拨了一阵很快下架了
+Dialogue: 3,0:01:00.85,0:01:04.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H00FFFF}小时候在电视看的时候因为没有版权
+Dialogue: 3,0:01:00.85,0:01:04.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H00FFFF}也没看完
 Dialogue: 3,0:01:01.59,0:01:13.09,AcplayDefault,,0000,0000,0000,,{\move(2208, 704, -288, 704)}什么居然有弹幕?!
 Dialogue: 3,0:01:01.59,0:01:13.09,AcplayDefault,,0000,0000,0000,,{\move(2208, 768, -288, 768)}什么居然有弹幕?!
 Dialogue: 3,0:01:01.61,0:01:14.61,AcplayDefault,,0000,0000,0000,,{\move(2464, 832, -544, 832)}我记得当年电视看得到董美娃实体化了
@@ -389,8 +389,8 @@ Dialogue: 3,0:09:47.13,0:09:57.13,AcplayDefault,,0000,0000,0000,,{\move(2112, 76
 Dialogue: 3,0:09:50.34,0:10:03.34,AcplayDefault,,0000,0000,0000,,{\move(2400, 832, -480, 832)\c&H0099FF\3c&HFFFFFF}指着y=ax+b讲生物也是够了
 Dialogue: 3,0:09:51.14,0:10:02.14,AcplayDefault,,0000,0000,0000,,{\move(2176, 896, -256, 896)}中途塔可以变红？
 Dialogue: 3,0:09:51.38,0:10:02.38,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)}还是y=ax+b
-Dialogue: 3,0:09:51.47,0:10:04.47,AcplayDefault,,0000,0000,0000,,{\move(2592, 128, -672, 128)\c&H1200E7\3c&HFFFFFF}这个老师是化学，物理，生物，数学，地理老师
-Dialogue: 3,0:09:51.47,0:10:03.97,AcplayDefault,,0000,0000,0000,,{\move(2272, 192, -352, 192)\c&H1200E7\3c&HFFFFFF}指着y＝ax＋b讲生物
+Dialogue: 3,0:09:51.47,0:10:03.97,AcplayDefault,,0000,0000,0000,,{\move(2272, 128, -352, 128)\c&H1200E7\3c&HFFFFFF}指着y＝ax＋b讲生物
+Dialogue: 3,0:09:51.47,0:10:04.47,AcplayDefault,,0000,0000,0000,,{\move(2592, 192, -672, 192)\c&H1200E7\3c&HFFFFFF}这个老师是化学，物理，生物，数学，地理老师
 Dialogue: 3,0:09:52.67,0:10:02.67,AcplayDefault,,0000,0000,0000,,{\move(2112, 256, -192, 256)}y=ax+b
 Dialogue: 3,0:09:53.45,0:10:03.45,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}y=ax+b
 Dialogue: 3,0:09:53.90,0:09:57.90,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}又是这个公式

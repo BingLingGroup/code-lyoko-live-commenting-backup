@@ -653,15 +653,15 @@ Dialogue: 3,0:22:12.72,0:22:25.72,AcplayDefault,,0000,0000,0000,,{\move(2784, 64
 Dialogue: 3,0:22:13.48,0:22:22.48,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}同不懂
 Dialogue: 3,0:22:14.00,0:22:27.00,AcplayDefault,,0000,0000,0000,,{\move(2752, 768, -832, 768)}要ALITA为了引出franz，alita回去了会死
 Dialogue: 3,0:22:15.82,0:22:26.82,AcplayDefault,,0000,0000,0000,,{\move(2176, 832, -256, 832)}原来如此…………
-Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&HFF3300\3c&HFFFFFF}那样的话XANA就再也没有利用A妹引出FH的办法了
-Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&HFF3300\3c&HFFFFFF}所以我的结论是——XANA的真爱是FH！
-Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&HFF3300\3c&HFFFFFF}以上是自己理解本回剧情的蓝字小透明
+Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&HFF3300\3c&HFFFFFF}所以我的结论是——XANA的真爱是FH！
+Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&HFF3300\3c&HFFFFFF}以上是自己理解本回剧情的蓝字小透明
+Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&HFF3300\3c&HFFFFFF}那样的话XANA就再也没有利用A妹引出FH的办法了
 Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&HFF3300\3c&HFFFFFF}外加上现实世界此时被陨石攻击，工厂也在范围当中
 Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&HFF3300\3c&HFFFFFF}如果XANA不将陨石破坏，A妹和工厂就会这么消失掉
-Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 321)\c&HFF3300\3c&HFFFFFF}只有A妹在Lyoko，XANA才能达成她的计划
-Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 385)\c&HFF3300\3c&HFFFFFF}以前的话是逆虚拟，现在是被丢进数据海
-Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 449)\c&HFF3300\3c&HFFFFFF}想要引出FH，A妹的大危机是必不可少的
-Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 513)\c&HFF3300\3c&HFFFFFF}首先，XANA的目的一直是A妹，因为它需要用A妹引出FH
+Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 321)\c&HFF3300\3c&HFFFFFF}以前的话是逆虚拟，现在是被丢进数据海
+Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 385)\c&HFF3300\3c&HFFFFFF}只有A妹在Lyoko，XANA才能达成她的计划
+Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 449)\c&HFF3300\3c&HFFFFFF}首先，XANA的目的一直是A妹，因为它需要用A妹引出FH
+Dialogue: 3,0:22:17.35,0:22:21.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 513)\c&HFF3300\3c&HFFFFFF}想要引出FH，A妹的大危机是必不可少的
 Dialogue: 3,0:22:19.11,0:22:29.11,AcplayDefault,,0000,0000,0000,,{\move(2112, 576, -192, 576)}蓝字是***
 Dialogue: 3,0:22:19.24,0:22:32.24,AcplayDefault,,0000,0000,0000,,{\move(2592, 640, -672, 640)}蓝字前面很正经...后面....23333
 Dialogue: 3,0:22:21.21,0:22:30.87,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}太凶险了
